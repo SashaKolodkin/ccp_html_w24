@@ -1,0 +1,12 @@
+body{
+    color:rgb(221, 201, 239);
+    background-color:rgb(151, 11, 39)
+}
+h1{
+    color: rgb(163, 255, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+ul{
+    word-spacing: 100pt;
+}
